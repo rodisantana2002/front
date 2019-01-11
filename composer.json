@@ -1,0 +1,11 @@
+{
+    "name": "vendor/app",
+    "description": "Descrição do projeto app.",
+    "authors": [
+        {
+            "name": "rodolfosantana",
+            "email": "rodisantana2002@gmail.com"
+        }
+    ],
+    "require": {}
+}
